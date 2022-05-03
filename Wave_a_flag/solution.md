@@ -1,0 +1,2 @@
+cat warm
+picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}
