@@ -1,2 +1,2 @@
 # CTF
-Pico CTF practice level solutions
+Pico CTF | picoGym Practice Challenges solutions
